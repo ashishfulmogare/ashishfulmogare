@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ fulmogareashish0@.com For Collaboration/Project or Anything Else. 😊😊
 
-🔭 I’m currently : BCA student at ssrtmun <br>
+🔭 I’m currently : BCA student at srtmun <br>
 👯 I’m looking to collaborate on: Open source projects or beginner friendly coding challanges.<br>
 🤔 I’m looking for help with: Learning clean coding practices and version with git .<br>
 💬 Ask me about: Collaboration, Tech Support <br>
